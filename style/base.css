@@ -14,3 +14,9 @@
     font-family: Freckle Face, sans-serif;
     font-size: 10vw;
 }
+
+.text{
+    text-align: center;
+    margin-top: 5vh;
+    width: 50vw;
+}
